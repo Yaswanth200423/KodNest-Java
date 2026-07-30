@@ -1,5 +1,7 @@
 public class WelcomeToJava {
     public static void main(String[] args) {
-       //Write your code here
+       System.out.println("welcome to java track");
+       System.out.println("i already know how to build progaramming language");
+       System.out.println("now iam learning how to express that logic using java");
     }
 }

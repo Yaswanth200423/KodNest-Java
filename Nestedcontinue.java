@@ -1,6 +1,6 @@
 public class Nestedcontinue{
     public static void main(String[] args){
-        outer: for(int i=1;i<=3;i++){
+         outer: for(int i=1;i<=3;i++){
             inner: for(int j=1;j<=2;j++){
                    if( j== 2){
                    break outer;
